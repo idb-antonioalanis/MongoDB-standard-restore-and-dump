@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:6.0
+    ports:
+      - 27017:27017
+
+  cosmosdb:
+    image: mongo:7.0
+    ports:
+      - "27018:27017"
