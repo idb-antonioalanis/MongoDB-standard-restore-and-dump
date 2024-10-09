@@ -21,16 +21,14 @@ class MongoDBDeleter:
 
         self.connection_string = (
             input(
-                f"Enter connection URI (default: {self.DEFAULT_CONNECTION_STRING}) > "
+                f"MongoDB connection URI (default: {self.DEFAULT_CONNECTION_STRING}) > "
             )
             or self.DEFAULT_CONNECTION_STRING
         )
-        self.db_name = input("Enter database name > ")
-        self.collection_name = input("Enter collection name > ")
-        self.total_quantity = int(input("Enter the total number of documents > "))
-        self.quantity_to_preserve = int(
-            input("Enter the number of documents to preserve > ")
-        )
+        self.db_name = input("Database name > ")
+        self.collection_name = input("Collection name > ")
+        self.total_quantity = int(input("Total number of documents > "))
+        self.quantity_to_preserve = int(input("Number of documents to preserve > "))
 
         self.quantity_to_delete = self.total_quantity - self.quantity_to_preserve
 
@@ -38,9 +36,13 @@ class MongoDBDeleter:
         """
         Connect to the MongoDB database and get the collection.
         """
+        print(f"\n[Info] Connecting to '{self.connection_string}'...")
+
         self.client = MongoClient(self.connection_string)
         self.db = self.client[self.db_name]
         self.collection = self.db[self.collection_name]
+
+        print("[Success] Connected to the database.\n")
 
     def _set_ids_to_delete(self):
         """
@@ -65,11 +67,10 @@ class MongoDBDeleter:
             deleted_count += result.deleted_count
 
             print(
-                f"{result.deleted_count} documents deleted on this batch. {deleted_count} documents deleted."
+                f"[Info] {result.deleted_count} documents deleted on this batch. {deleted_count} documents deleted."
             )
 
-        print(f"{self.quantity_to_delete} documents deleted.")
-        print(f"{self.quantity_to_preserve} documents preserved.")
+        print(f"\n[Success] {self.quantity_to_preserve} documents preserved.")
 
     def _invoke(self):
         """
@@ -81,6 +82,7 @@ class MongoDBDeleter:
         self._delete_batches()
 
         self.client.close()
+        print("[Info] Connection to the database closed.")
 
 
 if __name__ == "__main__":
