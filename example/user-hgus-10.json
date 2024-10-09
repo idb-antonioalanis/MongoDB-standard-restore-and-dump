@@ -1,0 +1,3628 @@
+[{
+  "_id": "7FFD58B0634CBDE026ACD04F1A87A903B8D85259",
+  "hgus": [
+    {
+      "id": "locust-seq-00104242",
+      "brand": "movistar",
+      "ip": "0.1.151.50",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901151050"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33703347,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": false,
+          "id": "4279970c-2496-451f-8f45-ad14275f0f50",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787428291"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "ef9e894b-b4e8-40be-b158-1343df4b44a9",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787428291"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": false,
+          "id": "5022e591-304f-4552-86ef-bfda34240e07",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787428291"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": true,
+          "id": "1ae03db2-1af0-4a25-b321-76a5acf6a35b",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787428291"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T13:08:21.999Z",
+  "createdAt": "2022-03-02T12:20:53.474Z"
+},
+{
+  "_id": "7FF6F15EC12C8DA5F2B4E1002A05B988943621EE",
+  "hgus": [
+    {
+      "id": "locust-seq-00107055",
+      "brand": "movistar",
+      "ip": "0.1.162.47",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901162047"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33700661,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": true,
+          "id": "b3dada57-b004-4b64-9eae-a3f77adcb6f9",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432540"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "b04d0823-9b53-4e57-850e-a94a5b3afb33",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432540"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": false,
+          "id": "2078c022-3630-4498-bfa9-6e19c193bde9",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432540"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": true,
+          "id": "6924356d-f0d8-49ea-8613-bdfe4f383c62",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432540"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": true,
+          "id": "d7717e07-6493-441d-9d9b-6c6c8da2383d",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": false,
+          "id": "b342ebef-7e49-4f58-8e2f-8f88fb1c807e",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2c1648321b99deb17f7426dfba9129ab",
+          "connected": true,
+          "id": "2f8c5f19-ecaf-4cb1-a3be-ecf8753eee71",
+          "mac": "fa:ba:da:00:00:06",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2f00dd508047ea728370e2b1343c4779",
+          "connected": false,
+          "id": "10e3b9bb-a64e-4af2-9772-42cdb2e439dc",
+          "mac": "fa:ba:da:00:00:07",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "35a14c6eecb7425d7ca77424c0ff2e70",
+          "connected": true,
+          "id": "daba5f40-3b45-4d7a-85c8-25e3b8f1f5d6",
+          "mac": "fa:ba:da:00:00:08",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "93d27d2c223f150a76f1c8076237e774",
+          "connected": true,
+          "id": "fa7c9ee4-e5c6-4ec1-bead-fdd44fb6214b",
+          "mac": "fa:ba:da:00:00:09",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "bcff4fa3999afa1953c9e77d3723c760",
+          "connected": false,
+          "id": "97386be1-3b52-4a23-b73e-57c2659b6a2a",
+          "mac": "fa:ba:da:00:00:0a",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "6abfccc4bffddcf9d1e53d1874ef3c05",
+          "connected": true,
+          "id": "c5458f05-77ad-429d-bb2a-8a3c8aeacf3d",
+          "mac": "fa:ba:da:00:00:0b",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "cd2259e773fd52c1fd0d85fe109e7e73",
+          "connected": false,
+          "id": "5733410a-3dd7-4cb2-bf2f-56297fbd2125",
+          "mac": "fa:ba:da:00:00:0c",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "08f3d3dcef1b926e88673b442f1aa66f",
+          "connected": false,
+          "id": "fa82ac67-affc-4c10-b8fa-7d70a8418da5",
+          "mac": "fa:ba:da:00:00:0d",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1defe6d813a189ce4863e7e74cabb7f3",
+          "connected": true,
+          "id": "3f3d0c09-a2a4-4c66-8679-2b4e5a516f34",
+          "mac": "fa:ba:da:00:00:0e",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "599bcd65955946a48240f1e392f6073b",
+          "connected": true,
+          "id": "ebddb72a-f107-4df3-89dd-c98b3f3e7beb",
+          "mac": "fa:ba:da:00:00:0f",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "55ead773079268f72d7073c28a755b06",
+          "connected": true,
+          "id": "45331bd3-bd09-4e29-b8f6-56e28020e95e",
+          "mac": "fa:ba:da:00:00:10",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "f683dbbaeb748160330c095c3e40a0f6",
+          "connected": false,
+          "id": "adb7d386-03f9-4efa-9722-ef9e0d263928",
+          "mac": "fa:ba:da:00:00:11",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "449610bb17b9ef8687862daa6b4e0862",
+          "connected": true,
+          "id": "3fb8fb7a-e223-4910-996d-f283a75befbc",
+          "mac": "fa:ba:da:00:00:12",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "02fb4dd10583e5773127f0d969373a0d",
+          "connected": false,
+          "id": "ac2ba3e2-8f50-4068-8b06-a1f00080d18d",
+          "mac": "fa:ba:da:00:00:13",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1b07d322511db218b1877a99b7ff0b7d",
+          "connected": true,
+          "id": "aad17e1c-379e-494f-8bd1-98e13ccf2643",
+          "mac": "fa:ba:da:00:00:14",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1d0bce2cf36ff3c2a7b5a7b0e9762bed",
+          "connected": true,
+          "id": "23e6a384-1298-486a-a6a9-86a55859f96f",
+          "mac": "fa:ba:da:00:00:15",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787432541"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T12:54:49.346Z",
+  "createdAt": "2022-03-02T12:23:51.489Z"
+},
+{
+  "_id": "7FE1D5A55D0A6BA180957B0B6B15CE08F8E8D61F",
+  "hgus": [
+    {
+      "id": "locust-seq-00108213",
+      "brand": "movistar",
+      "ip": "0.1.166.181",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901166181"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33703224,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": true,
+          "id": "2631e434-bec5-4f84-a85d-3f6bb85b4040",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787434126"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "69c41766-5ed6-4da3-a97d-626a950e593e",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787434126"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": false,
+          "id": "20598883-c6df-403f-9510-621508a667e8",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787434126"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": false,
+          "id": "0e1e056c-40fb-463b-bfa3-dd8e49c3b770",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787434126"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": true,
+          "id": "80b32bcc-612c-4904-bc64-7aeb71cee72f",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787434126"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": false,
+          "id": "9f8678be-e70b-4cd2-8220-ad5bcd048c4e",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787434126"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T13:01:26.031Z",
+  "createdAt": "2022-03-02T12:25:06.564Z"
+},
+{
+  "_id": "7FD612290770AD4666F40B0276BB3EFD10EA8EE0",
+  "hgus": [
+    {
+      "id": "locust-seq-00110304",
+      "brand": "movistar",
+      "ip": "0.1.174.224",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901174224"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33701441,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": true,
+          "id": "81139535-6462-424f-8a85-d482a02d2147",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "002a6908-8624-47f8-a8ba-892395b87b12",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": true,
+          "id": "0b8dafdf-383d-4b0c-bcb7-18450c254099",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": true,
+          "id": "a4b51968-c66f-421e-81c8-4b2db1e0bfa5",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": false,
+          "id": "6085a49d-5f25-4e55-8b01-39f78bbb78ee",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": false,
+          "id": "66326ecd-05fd-4aed-80ba-b352c74de121",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2c1648321b99deb17f7426dfba9129ab",
+          "connected": false,
+          "id": "a81573c2-5ad0-48ea-97cb-ec3e87731bb2",
+          "mac": "fa:ba:da:00:00:06",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2f00dd508047ea728370e2b1343c4779",
+          "connected": false,
+          "id": "d70c9734-550b-4915-a435-f4236c688b12",
+          "mac": "fa:ba:da:00:00:07",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "35a14c6eecb7425d7ca77424c0ff2e70",
+          "connected": false,
+          "id": "afd4f2e3-9d4c-4eee-a7b7-00b5bf909252",
+          "mac": "fa:ba:da:00:00:08",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "93d27d2c223f150a76f1c8076237e774",
+          "connected": true,
+          "id": "e2711585-fe6f-4b8d-a9c1-81c71d95f99b",
+          "mac": "fa:ba:da:00:00:09",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "bcff4fa3999afa1953c9e77d3723c760",
+          "connected": true,
+          "id": "8a4eca80-a96a-4bb0-8c79-477e613439fe",
+          "mac": "fa:ba:da:00:00:0a",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "6abfccc4bffddcf9d1e53d1874ef3c05",
+          "connected": true,
+          "id": "7c650062-9769-45bb-873b-8ce596271ab6",
+          "mac": "fa:ba:da:00:00:0b",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "cd2259e773fd52c1fd0d85fe109e7e73",
+          "connected": false,
+          "id": "719c50bc-ff4b-40b1-b485-bd31c057670f",
+          "mac": "fa:ba:da:00:00:0c",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "08f3d3dcef1b926e88673b442f1aa66f",
+          "connected": true,
+          "id": "1574b648-493c-47b2-88b8-305c3704c3e9",
+          "mac": "fa:ba:da:00:00:0d",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1defe6d813a189ce4863e7e74cabb7f3",
+          "connected": false,
+          "id": "12ba53ac-f2c2-4c5c-92b0-afcc99819937",
+          "mac": "fa:ba:da:00:00:0e",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "599bcd65955946a48240f1e392f6073b",
+          "connected": false,
+          "id": "00b2ae45-ec2b-4a5a-a511-83ea587ded37",
+          "mac": "fa:ba:da:00:00:0f",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "55ead773079268f72d7073c28a755b06",
+          "connected": true,
+          "id": "e65416e9-b8f6-4a35-af6c-4bfa83278f8c",
+          "mac": "fa:ba:da:00:00:10",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "f683dbbaeb748160330c095c3e40a0f6",
+          "connected": false,
+          "id": "1e63ce90-737d-4295-ba08-e2a3de1c701f",
+          "mac": "fa:ba:da:00:00:11",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "449610bb17b9ef8687862daa6b4e0862",
+          "connected": true,
+          "id": "856b4a68-e321-4102-8ea1-572bd4516f1e",
+          "mac": "fa:ba:da:00:00:12",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "02fb4dd10583e5773127f0d969373a0d",
+          "connected": true,
+          "id": "ff26ed59-fd35-47be-9d00-ad0a1c3efaea",
+          "mac": "fa:ba:da:00:00:13",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1b07d322511db218b1877a99b7ff0b7d",
+          "connected": true,
+          "id": "34bc65a9-b219-467d-826f-4b7c677c7a38",
+          "mac": "fa:ba:da:00:00:14",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787437452"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": "migrated",
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T13:07:16.788Z",
+  "createdAt": "2022-03-02T12:27:21.451Z"
+},
+{
+  "_id": "7FDBE5B12349C695480FF52DD0CA9E0C0BA330E1",
+  "hgus": [
+    {
+      "id": "locust-seq-00110552",
+      "brand": "movistar",
+      "ip": "0.1.175.216",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901175216"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33701441,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": false,
+          "id": "8abeccd8-2edd-40ad-960c-da5263136c7b",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "b12476aa-e9d7-4cf1-b798-399ecd383701",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": false,
+          "id": "b578efa4-c3a8-4d03-878d-36c5dc990967",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": true,
+          "id": "cb8f1bf6-f3fe-4b68-8db2-aa842ae36233",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": true,
+          "id": "87ea7233-bcec-40bd-b49c-e17bcd27ecf0",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": false,
+          "id": "34557496-7999-49ae-ad8d-4c30d5474e0f",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2c1648321b99deb17f7426dfba9129ab",
+          "connected": true,
+          "id": "18b6e7e2-a210-4b53-9d0c-a5bdfe14d32f",
+          "mac": "fa:ba:da:00:00:06",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2f00dd508047ea728370e2b1343c4779",
+          "connected": true,
+          "id": "f70187cc-be2a-4c91-9dd8-c21cd316d79c",
+          "mac": "fa:ba:da:00:00:07",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "35a14c6eecb7425d7ca77424c0ff2e70",
+          "connected": true,
+          "id": "de96f7d1-d3f0-4b83-8bf9-1fb1bb6900b3",
+          "mac": "fa:ba:da:00:00:08",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "93d27d2c223f150a76f1c8076237e774",
+          "connected": false,
+          "id": "953595b8-d4f4-45f3-b760-a48f7909219e",
+          "mac": "fa:ba:da:00:00:09",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "bcff4fa3999afa1953c9e77d3723c760",
+          "connected": false,
+          "id": "f150a73a-f2e4-4d40-b730-667a729919dc",
+          "mac": "fa:ba:da:00:00:0a",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "6abfccc4bffddcf9d1e53d1874ef3c05",
+          "connected": false,
+          "id": "295146e0-ea18-428c-86ed-3567575f659b",
+          "mac": "fa:ba:da:00:00:0b",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "cd2259e773fd52c1fd0d85fe109e7e73",
+          "connected": false,
+          "id": "7ad5c447-ebb1-470a-af83-25c1c453209b",
+          "mac": "fa:ba:da:00:00:0c",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "08f3d3dcef1b926e88673b442f1aa66f",
+          "connected": false,
+          "id": "c6b8baa7-9dca-4d77-a7ad-a0eb2495def0",
+          "mac": "fa:ba:da:00:00:0d",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1defe6d813a189ce4863e7e74cabb7f3",
+          "connected": true,
+          "id": "4fe0259a-cce4-4cba-8dee-829d1a33646b",
+          "mac": "fa:ba:da:00:00:0e",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787438007"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T13:07:11.836Z",
+  "createdAt": "2022-03-02T12:27:35.595Z"
+},
+{
+  "_id": "80059C1A619E0448580059468CCBAC593717F880",
+  "hgus": [
+    {
+      "id": "locust-seq-00113056",
+      "brand": "movistar",
+      "ip": "0.1.185.160",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901185160"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33701718,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": true,
+          "id": "c1f7217d-80b3-4bba-9934-685fec89a253",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": true,
+          "id": "0f1a7bd1-82f8-4d0e-bc3d-f9116ca2864c",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": false,
+          "id": "6457fb36-35a7-4c78-a2d4-883ef4d4984e",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": false,
+          "id": "cb977d68-9242-49db-bbdf-70ff3cdfa8f4",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": true,
+          "id": "fa3a2db2-4499-4a7c-a421-f8ed8ec2b6a2",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": false,
+          "id": "a3ac8551-3ef2-4eb5-a181-3af0f3843fa3",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2c1648321b99deb17f7426dfba9129ab",
+          "connected": false,
+          "id": "2d871b69-61ce-4d8c-aeb3-f1d2f1e61867",
+          "mac": "fa:ba:da:00:00:06",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2f00dd508047ea728370e2b1343c4779",
+          "connected": true,
+          "id": "9bc1af1d-e169-4f5b-a2e8-2df8df768a21",
+          "mac": "fa:ba:da:00:00:07",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "35a14c6eecb7425d7ca77424c0ff2e70",
+          "connected": true,
+          "id": "99e2498a-19b5-45c0-88c6-98768a7151e3",
+          "mac": "fa:ba:da:00:00:08",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "93d27d2c223f150a76f1c8076237e774",
+          "connected": true,
+          "id": "25af6279-d71d-4f71-99f0-fcfea6999616",
+          "mac": "fa:ba:da:00:00:09",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "bcff4fa3999afa1953c9e77d3723c760",
+          "connected": true,
+          "id": "6759d429-ba2a-446b-9b4f-c68f110fef8d",
+          "mac": "fa:ba:da:00:00:0a",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "6abfccc4bffddcf9d1e53d1874ef3c05",
+          "connected": true,
+          "id": "d20ab5c0-cb1e-46be-9576-6a3f556419f2",
+          "mac": "fa:ba:da:00:00:0b",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "cd2259e773fd52c1fd0d85fe109e7e73",
+          "connected": false,
+          "id": "a0e48b6c-78f1-421e-9349-85ccd50dce4a",
+          "mac": "fa:ba:da:00:00:0c",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "08f3d3dcef1b926e88673b442f1aa66f",
+          "connected": false,
+          "id": "642e9b5c-859d-4bc7-9d7b-4e717e6a3c92",
+          "mac": "fa:ba:da:00:00:0d",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1defe6d813a189ce4863e7e74cabb7f3",
+          "connected": true,
+          "id": "fa7a8b92-d933-4cac-8eb1-ba3bced15ecc",
+          "mac": "fa:ba:da:00:00:0e",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "599bcd65955946a48240f1e392f6073b",
+          "connected": false,
+          "id": "10516583-f862-47a9-8986-674350e1801c",
+          "mac": "fa:ba:da:00:00:0f",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "55ead773079268f72d7073c28a755b06",
+          "connected": false,
+          "id": "f1a79dc0-1301-46e0-95cc-5d288ff5f93c",
+          "mac": "fa:ba:da:00:00:10",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "f683dbbaeb748160330c095c3e40a0f6",
+          "connected": false,
+          "id": "ad8d941a-4ddd-4c4b-ad1b-6edeb79ff0a7",
+          "mac": "fa:ba:da:00:00:11",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "449610bb17b9ef8687862daa6b4e0862",
+          "connected": true,
+          "id": "c430068d-2bf9-49cb-92e0-2ab7740148d7",
+          "mac": "fa:ba:da:00:00:12",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "02fb4dd10583e5773127f0d969373a0d",
+          "connected": false,
+          "id": "ff22fbc5-54ad-4d62-b99d-4b80f0743fe9",
+          "mac": "fa:ba:da:00:00:13",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1b07d322511db218b1877a99b7ff0b7d",
+          "connected": true,
+          "id": "ccb8bea2-6f99-47db-892a-326e21f1eabd",
+          "mac": "fa:ba:da:00:00:14",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1d0bce2cf36ff3c2a7b5a7b0e9762bed",
+          "connected": false,
+          "id": "58c7289c-7e19-4ad8-bca1-69185cd3d3a0",
+          "mac": "fa:ba:da:00:00:15",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "78f5ddd7689a263e14ed3c8d11bc8ed5",
+          "connected": true,
+          "id": "6dfb594d-0225-46ea-b242-5ee13511aee3",
+          "mac": "fa:ba:da:00:00:16",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "5dca09416d8a03e9b5118d4c1f69c04a",
+          "connected": true,
+          "id": "75081cf3-a58a-4d3c-8ed5-2f90ebff41ab",
+          "mac": "fa:ba:da:00:00:17",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "e4ae3afb6dc7db42357685531a307e99",
+          "connected": false,
+          "id": "c669c120-b318-4daf-81d3-b4720851ad37",
+          "mac": "fa:ba:da:00:00:18",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787441869"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T12:59:58.433Z",
+  "createdAt": "2022-03-02T12:30:20.104Z"
+},
+{
+  "_id": "7FD8CB09E1B32249753E414565577D6D25D460D0",
+  "hgus": [
+    {
+      "id": "locust-seq-00116472",
+      "brand": "movistar",
+      "ip": "0.1.198.248",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901198248"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33701319,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": false,
+          "id": "60162325-7972-4d23-867a-b2c731df92c0",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447246"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": true,
+          "id": "3a65ea18-a5dc-4e24-863f-d492521e0c5a",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447246"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": true,
+          "id": "36fa1d1d-65f3-4646-a2c1-2736e9da9249",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447246"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": false,
+          "id": "432524ff-2fbf-4341-9508-d47f9d0dc7ad",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447246"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": false,
+          "id": "161856e9-65fc-40ed-831d-310850449bab",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447246"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": false,
+          "id": "d2eee808-3103-493e-9d66-66033f2ae819",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447246"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2c1648321b99deb17f7426dfba9129ab",
+          "connected": false,
+          "id": "fef31486-b912-4170-92aa-c84dd22c1220",
+          "mac": "fa:ba:da:00:00:06",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447246"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T12:59:29.325Z",
+  "createdAt": "2022-03-02T12:34:04.928Z"
+},
+{
+  "_id": "7FEC6FBA816E592676EBC7D01A37171852195B2D",
+  "hgus": [
+    {
+      "id": "locust-seq-00116871",
+      "brand": "movistar",
+      "ip": "0.1.200.135",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901200135"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33701457,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": true,
+          "id": "71ce01f0-35d4-48cb-bda7-d1d999f3cacd",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "0b8d338c-7da5-4345-8867-56237ccabc83",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": false,
+          "id": "9bc1df6d-ca91-4224-9504-ba45b03ab4cc",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": true,
+          "id": "c487a5bf-edf5-4c87-b257-923b446a5b36",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": true,
+          "id": "febf6bac-8686-4f58-a86d-6eae86548299",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": true,
+          "id": "116a0ff2-b1bd-4245-a5d8-5d99569d7457",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2c1648321b99deb17f7426dfba9129ab",
+          "connected": false,
+          "id": "7f36a8d8-4b6c-4c67-b08d-7da18205f4d6",
+          "mac": "fa:ba:da:00:00:06",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2f00dd508047ea728370e2b1343c4779",
+          "connected": false,
+          "id": "050fadf3-0c34-41e5-90cd-1c1b3ebb0a31",
+          "mac": "fa:ba:da:00:00:07",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787447735"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T13:04:12.024Z",
+  "createdAt": "2022-03-02T12:34:29.055Z"
+},
+{
+  "_id": "7FEAD059B2E508023F202BCEBD9D01C74DBE2A66",
+  "hgus": [
+    {
+      "id": "locust-seq-00119348",
+      "brand": "movistar",
+      "ip": "0.1.210.52",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901210052"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33703402,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": false,
+          "id": "16fd2f70-e06d-4233-93ec-5c4785620caa",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787451678"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "7665dd03-5927-4793-b3a2-a10c40005b39",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787451678"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": true,
+          "id": "4c04dd8b-4fad-4153-91fb-9b5a2d169159",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787451678"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": false,
+          "id": "2aae4652-b5f1-4115-9bc7-fa63ab40b72d",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787451678"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": "migrated",
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T13:02:00.243Z",
+  "createdAt": "2022-03-02T12:37:11.478Z"
+},
+{
+  "_id": "7FFDB5F4D825F4B751C3B728C575D1456019E4BE",
+  "hgus": [
+    {
+      "id": "locust-seq-00119863",
+      "brand": "movistar",
+      "ip": "0.1.212.55",
+      "identities": [
+        {
+          "type": "phone_number",
+          "value": "+34901212055"
+        }
+      ],
+      "firmwareVersion": "ES_g19.X_R3505VWSTD203_dev_r8386",
+      "uptime": 33703384,
+      "devices": [
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "a733b1424165fb6d2df10e02ff48666f",
+          "connected": false,
+          "id": "862fdbdd-a32d-4277-959f-99b609d445a5",
+          "mac": "fa:ba:da:00:00:00",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "1a40e7eeeffb158382df084ee3eb5f29",
+          "connected": false,
+          "id": "f9b1757f-e6e4-4408-a0c7-caf46d8fd02b",
+          "mac": "fa:ba:da:00:00:01",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "da85de81550d688b9083c7f713657116",
+          "connected": false,
+          "id": "9dfe1126-a2fb-4d2b-b45e-eaf26b60870b",
+          "mac": "fa:ba:da:00:00:02",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "85ee0bcd20820c095f16039545baf264",
+          "connected": true,
+          "id": "661d363a-ad0c-4f33-8454-f37d0e06b4b3",
+          "mac": "fa:ba:da:00:00:03",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "3be8b9d7a6b9f7b3437ea250718c6f7e",
+          "connected": true,
+          "id": "5e76af5c-e287-42d2-8efc-c25368e91d7e",
+          "mac": "fa:ba:da:00:00:04",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "9f6507d037a88032a84af1708ae08326",
+          "connected": true,
+          "id": "77d515a2-af0e-4a4b-ad02-e67ca8fa96d2",
+          "mac": "fa:ba:da:00:00:05",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2c1648321b99deb17f7426dfba9129ab",
+          "connected": false,
+          "id": "b46475d8-bdd7-4df9-b585-986228092114",
+          "mac": "fa:ba:da:00:00:06",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "2f00dd508047ea728370e2b1343c4779",
+          "connected": true,
+          "id": "74ed6c88-fa29-4d4c-ad61-c3859694e1b5",
+          "mac": "fa:ba:da:00:00:07",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        },
+        {
+          "lastDisconnectionTime": {
+            "$numberLong": "1627452927530"
+          },
+          "interfaceName": "wifi0",
+          "dhcp60": "android-dhcp-8.1.0",
+          "hostName": "35a14c6eecb7425d7ca77424c0ff2e70",
+          "connected": false,
+          "id": "1ebb977e-cfd5-4a26-9633-85708e54d604",
+          "mac": "fa:ba:da:00:00:08",
+          "ip": "192.168.1.33",
+          "viewed": true,
+          "firstConnectionTime": {
+            "$numberLong": "1652787452549"
+          },
+          "deviceName": null,
+          "deviceCategory": null,
+          "deviceType": "generic",
+          "deviceModel": null,
+          "deviceManufacturer": null,
+          "deviceOs": null,
+          "deviceOsVersion": null,
+          "deviceAdditionalInfo": null,
+          "nickName": null,
+          "nickCategory": null,
+          "paused": false,
+          "dhcp55": "FzZKaMPYMPYdXJYSGYLE"
+        }
+      ],
+      "smartWifiMigrationStatus": null,
+      "iotHubName": "iothub"
+    }
+  ],
+  "updatedAt": "2022-05-30T12:57:49.804Z",
+  "createdAt": "2022-03-02T12:37:45.554Z"
+}]
