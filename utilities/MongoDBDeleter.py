@@ -27,10 +27,7 @@ class MongoDBDeleter:
         )
         self.db_name = input("Database name > ")
         self.collection_name = input("Collection name > ")
-        self.total_quantity = int(input("Total number of documents > "))
         self.quantity_to_preserve = int(input("Number of documents to preserve > "))
-
-        self.quantity_to_delete = self.total_quantity - self.quantity_to_preserve
 
     def _connect_db(self):
         """
@@ -43,6 +40,23 @@ class MongoDBDeleter:
         self.collection = self.db[self.collection_name]
 
         print("[Success] Connected to the database.\n")
+
+    def _validate_document_count(self):
+        """
+        Get the total number of documents and check if the quantity to preserve is valid.
+        """
+        self.total_quantity = self.collection.count_documents({})
+
+        print(f"[Info] The collection has {self.total_quantity} documents in total.")
+
+        if self.quantity_to_preserve > self.total_quantity:
+            raise ValueError(
+                "The number of documents to preserve is greater than the total number of documents in the collection."
+            )
+
+        self.quantity_to_delete = self.total_quantity - self.quantity_to_preserve
+
+        print(f"[Info] {self.quantity_to_delete} documents will be deleted.\n")
 
     def _set_ids_to_delete(self):
         """
@@ -78,6 +92,7 @@ class MongoDBDeleter:
         """
         self._get_input()
         self._connect_db()
+        self._validate_document_count()
         self._set_ids_to_delete()
         self._delete_batches()
 
@@ -86,4 +101,7 @@ class MongoDBDeleter:
 
 
 if __name__ == "__main__":
-    MongoDBDeleter()
+    try:
+        MongoDBDeleter()
+    except ValueError as e:
+        print(f"[Error] {e}")
