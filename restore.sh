@@ -17,7 +17,13 @@ function show_help() {
     echo "  -d   Database to restore (required)"
     echo "  -p   Path to the dump directory (required)"
     echo "  -i   Restore indexes [yes|no] (default: no)"
+    echo
+    echo "[Example]"
+    echo
+    echo "$0 -u 'mongodb://localhost:27018/' -d 'mydatabase' -p '/path/to/dump' -i 'yes'"
+    echo
 }
+
 
 function assign_parameters() {
     # Assign parameters to variables. If a parameter is not provided, use the default value or show an 

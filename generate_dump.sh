@@ -11,11 +11,17 @@ function show_help() {
     echo
     echo "$0 -u <uri> -d <db> -c <collection>"
     echo
-    echo "Parameters:"
+    echo "Parameters"
     echo "  -u   MongoDB URI (default: mongodb://localhost:27017/)"
     echo "  -d   Database to back up"
     echo "  -c   Collection to back up"
+    echo
+    echo "[Example]"
+    echo
+    echo "$0 -u 'mongodb://localhost:27017/' -d 'mydatabase' -c 'mycollection'"
+    echo
 }
+
 
 function assign_parameters() {
     # Assign parameters to variables. If a parameter is not provided, use the default value or show an 
