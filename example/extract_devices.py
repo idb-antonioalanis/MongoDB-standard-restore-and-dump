@@ -12,27 +12,23 @@ def get_input():
     Get necessary inputs from the user for database and collection names, using defaults if none provided.
     """
     connection_string = (
-        input(f"Enter connection URI (default: {DEFAULT_CONNECTION_STRING}) > ")
+        input(f"MongoDB connection URI (default: {DEFAULT_CONNECTION_STRING}) > ")
         or DEFAULT_CONNECTION_STRING
     )
     db_name = (
-        input(f"Enter the source database name (default: {DEFAULT_DB_NAME}) > ")
+        input(f"Source database name (default: {DEFAULT_DB_NAME}) > ")
         or DEFAULT_DB_NAME
     )
     collection_name = (
-        input(
-            f"Enter the source collection name (default: {DEFAULT_COLLECTION_NAME}) > "
-        )
+        input(f"Source collection name (default: {DEFAULT_COLLECTION_NAME}) > ")
         or DEFAULT_COLLECTION_NAME
     )
     new_db_name = (
-        input(f"Enter the target database name (default: {DEFAULT_NEW_DB_NAME}) > ")
+        input(f"Target database name (default: {DEFAULT_NEW_DB_NAME}) > ")
         or DEFAULT_NEW_DB_NAME
     )
     new_collection_name = (
-        input(
-            f"Enter the target collection name (default: {DEFAULT_NEW_COLLECTION_NAME}) > "
-        )
+        input(f"Target collection name (default: {DEFAULT_NEW_COLLECTION_NAME}) > ")
         or DEFAULT_NEW_COLLECTION_NAME
     )
 
@@ -45,12 +41,16 @@ def connect_db(
     """
     Connect to the MongoDB database and collections.
     """
+    print(f"\n[Info] Connecting to '{connection_string}'...")
+
     client = MongoClient(connection_string)
     db = client[db_name]
     collection = db[collection_name]
 
     new_db = client[new_db_name]
     new_collection = new_db[new_collection_name]
+
+    print("[Success] Connected to the database.")
 
     return client, collection, new_collection
 
@@ -62,7 +62,8 @@ def count_devices(collection):
     devices_count = collection.aggregate(
         [{"$unwind": "$hgus"}, {"$unwind": "$hgus.devices"}, {"$count": "devices"}]
     ).next()["devices"]
-    print(f"{devices_count} devices found.")
+
+    print(f"[Info] {devices_count} devices found.")
 
 
 def aggregate_and_insert_devices(collection, new_db_name, new_collection_name):
@@ -141,7 +142,8 @@ def aggregate_and_insert_devices(collection, new_db_name, new_collection_name):
             },
         ]
     )
-    print(f"Data inserted in {new_collection_name} collection.")
+
+    print(f"[Success] Data inserted in '{new_collection_name}' collection.")
 
 
 if __name__ == "__main__":
@@ -157,3 +159,4 @@ if __name__ == "__main__":
     aggregate_and_insert_devices(collection, new_db_name, new_collection_name)
 
     client.close()
+    print("[Info] Connection to the database closed.")
