@@ -170,9 +170,12 @@ To execute the example, you must to follow the next steps.
 
 2. Access `mongodb://localhost:27017/` and create a new database called `datasets` with a collection named `user_hgus_10`.
 
-    <p align="left">
-        <img src="./README-files/example-2.png" alt="Image showing the result" width="250" />
-    </p>
+    ```bash
+    localhost:27017
+    └── datasets
+        └── user_hgus_10
+    localhost:27018
+    ```
 
 3. Import the [user-hgus-10.json](example/user-hgus-10.json) file into the `user_hgus_10` collection you just created.
 
@@ -208,9 +211,15 @@ To execute the example, you must to follow the next steps.
     $ ./generate_dump.sh -d 'devices' -c 'devices'
     ```
 
-    <p align="left">
-        <img src="./README-files/example-5.png" alt="Image showing the result" width="250" />
-    </p>
+    This will be the result.
+
+    ``` bash
+    data/
+    └── dump/
+        └── devices/
+            ├── devices.bson.gz
+            └── devices.metadata.json.
+    ```
 
 6. Restore the backup file in `mongodb://localhost:27018/` using the [restore.sh](#restoresh) script.
 
