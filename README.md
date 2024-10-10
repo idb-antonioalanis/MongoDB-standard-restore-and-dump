@@ -3,11 +3,19 @@
 ## Table of Contents
 
 1. [Installation](#installation)
-2. [Files](#files)
+2. [Description](#description)
+3. [Files](#files)
    - [utilities/MongoDBDeleter.py](#utilitiesmongodbdeleterpy)
    - [generate_dump.sh](#generate_dumpsh)
    - [restore.sh](#restoresh)
-3. [Running the example](#running-the-example)
+4. [Running the example](#running-the-example)
+5. [Troubleshooting](#troubleshooting)
+
+## Description
+
+This project offers an efficient and streamlined approach to managing MongoDB backups and restorations. It provides a suite of Python utilities and shell scripts designed to handle key database operations such as data extraction, deletion, and migration between MongoDB instances.
+
+Developed to establish a standard for handling large datasets, this solution simplifies the process of downsizing, transferring, and backing up data across different environments while ensuring minimal overhead and maintaining data consistency.
 
 ## Installation
 
@@ -213,3 +221,11 @@ To execute the example, you must to follow the next steps.
     <p align="center">
         <img src="./README-files/example-6.png" alt="Image showing the result" />
     </p>
+
+## Troubleshooting
+
+During the migration of data from MongoDB to **Azure Cosmos DB**, ***Error 16500*** may occur. This error is typically related to Cosmos DB’s rate-limiting policies
+
+This can be mitigated by enabling **server-side retries** and increasing the number of **parallel operations** during the migration, which helps improve efficiency and prevent such interruptions.
+
+For more information on preventing rate-limiting errors and configuring retries, refer to [this guide on server-side retries](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/tutorial-mongotools-cosmos-db#configure-azure-cosmos-db-server-side-retries) and [this resource on avoiding rate-limiting issues](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/prevent-rate-limiting-errors).
