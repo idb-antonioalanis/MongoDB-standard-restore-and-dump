@@ -180,7 +180,7 @@ To execute the example, you must to follow the next steps.
 3. Import the [user-hgus-10.json](example/user-hgus-10.json) file into the `user_hgus_10` collection you just created.
 
     <p align="center">
-        <img src="./README-files/example-3.png" alt="Image showing the result" />
+        <img src="./README-files/3.png" alt="Image showing the result" />
     </p>
 
 4. Extract the devices from the collection using the [extract_devices.py](example/extract_devices.py) script.
@@ -202,7 +202,7 @@ To execute the example, you must to follow the next steps.
     ```
 
     <p align="center">
-        <img src="./README-files/example-4.png" alt="Image showing the result" />
+        <img src="./README-files/4.png" alt="Image showing the result" />
     </p>
 
 5. Use the [generate_dump.sh](#generate_dumpsh) script to generate a dump of the devices collection.
@@ -228,7 +228,7 @@ To execute the example, you must to follow the next steps.
     ```
 
     <p align="center">
-        <img src="./README-files/example-6.png" alt="Image showing the result" />
+        <img src="./README-files/6.png" alt="Image showing the result" />
     </p>
 
 ## Troubleshooting
